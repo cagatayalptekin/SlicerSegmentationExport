@@ -23,20 +23,20 @@ Lets take these one by one.
   -You can extract these caliber models to specific folder.
 
   
-  ![image](https://github.com/user-attachments/assets/a15c5e7c-46fd-441a-b5ba-97df4f1d2f06)
+![image](https://github.com/user-attachments/assets/a15c5e7c-46fd-441a-b5ba-97df4f1d2f06)
   
 
 
-  ![image](https://github.com/user-attachments/assets/3886cc6f-16bd-4213-95f6-6439cf03ce60)
+![image](https://github.com/user-attachments/assets/3886cc6f-16bd-4213-95f6-6439cf03ce60)
   
 
 
-  ![image](https://github.com/user-attachments/assets/2f835b61-8915-414e-81ef-56dbea46e2f0)
+![image](https://github.com/user-attachments/assets/2f835b61-8915-414e-81ef-56dbea46e2f0)
   
 
   **DICOM**:
   
-  ![image](https://github.com/user-attachments/assets/4157ea4b-4712-40e1-adc0-792c266d9305)
+![image](https://github.com/user-attachments/assets/4157ea4b-4712-40e1-adc0-792c266d9305)
   
     -In this section you export the images on 3 different planes as you choose.
     
@@ -64,7 +64,7 @@ Lets take these one by one.
 
 **Create Line**
 
-  ![image](https://github.com/user-attachments/assets/4fd36793-b13a-4b54-abf0-a8378732dd65)
+![image](https://github.com/user-attachments/assets/4fd36793-b13a-4b54-abf0-a8378732dd65)
   
   -You have option to create and delete line at specific length.
   
@@ -82,7 +82,7 @@ Lets take these one by one.
 
   **Do It All**
   
-  ![image](https://github.com/user-attachments/assets/6444dc64-9192-4b6c-9853-130e9114c1d9)
+![image](https://github.com/user-attachments/assets/6444dc64-9192-4b6c-9853-130e9114c1d9)
 
   -In this section, all of the above operation could be done.
   
