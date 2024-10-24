@@ -44,9 +44,9 @@ Lets take these one by one.
     
     -It exports selected number of images to selected path, and creates directories accordingly.
     
-    ![image](https://github.com/user-attachments/assets/a2b1daf7-e855-447a-9c7e-91ef6bfddab8)
+![image](https://github.com/user-attachments/assets/a2b1daf7-e855-447a-9c7e-91ef6bfddab8)
 
-    ![image](https://github.com/user-attachments/assets/fd948cb4-098e-4d5d-befb-19c0b591134f)
+![image](https://github.com/user-attachments/assets/fd948cb4-098e-4d5d-befb-19c0b591134f)
     
 
 **Segmentation**
