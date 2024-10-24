@@ -10,17 +10,17 @@ Lets take these one by one.
 ![image](https://github.com/user-attachments/assets/067bda2d-8332-4ece-9e2f-2578a4be4c6b)
 
 
-  -In this section you can create quarter spheres on the corners at one click also you can select paint with 10mm or 20mm as you prefer
+    -In this section you can create quarter spheres on the corners at one click also you can select paint with 10mm or 20mm as you prefer
   
-  -Another option is that you can paint the slices on your own and with the help of shortcutkeys you can travel easily between slices.
+    -Another option is that you can paint the slices on your own and with the help of shortcutkeys you can travel easily between slices.
   
-  -You can choose 10mm or 20mm as you wish. And each button will get you to start or end of the slice based on the color you have chosen.
+    -You can choose 10mm or 20mm as you wish. And each button will get you to start or end of the slice based on the color you have chosen.
   
-  -You can undo/redo your operations with Ctrl+z/Ctry+y or clicking buttons.
+    -You can undo/redo your operations with Ctrl+z/Ctry+y or clicking buttons.
   
-  -You can remove calibers from corners clicking red X mark. You can unselect paint and you can also erase the paints.
+    -You can remove calibers from corners clicking red X mark. You can unselect paint and you can also erase the paints.
   
-  -You can extract these caliber models to specific folder.
+    -You can extract these caliber models to specific folder.
 
   
 ![image](https://github.com/user-attachments/assets/a15c5e7c-46fd-441a-b5ba-97df4f1d2f06)
@@ -67,19 +67,19 @@ Lets take these one by one.
 
 ![image](https://github.com/user-attachments/assets/4fd36793-b13a-4b54-abf0-a8378732dd65)
   
-  -You have option to create and delete line at specific length.
+    -You have option to create and delete line at specific length.
   
-  -Coordinates and names are optional, if not given it will give name automatically.
+    -Coordinates and names are optional, if not given it will give name automatically.
   
-  -If name not specified on line deletion, it will delete the last created line.
+    -If name not specified on line deletion, it will delete the last created line.
   
-  -You have option to extract line.
+    -You have option to extract line.
   
 **Save Scene**
 
 ![image](https://github.com/user-attachments/assets/f4591aa3-6e7d-4a13-a2f1-472a628beeda)
 
-  -It saves the scene at specified location.
+    -It saves the scene at specified location.
 
   **Do It All**
   
