@@ -52,12 +52,13 @@ Lets take these one by one.
 **Segmentation**
 
 ![image](https://github.com/user-attachments/assets/5d91d35e-3190-42bd-adc8-9c97f6390e58)
+    
 
-  -In this section you give threshold values and it segments the requested area based on these values.
+    -In this section you give threshold values and it segments the requested area based on these values.
   
-  -It is same with segment editor, also applies gaussian blur for smoothness.
+    -It is same with segment editor, also applies gaussian blur for smoothness.
   
-  -You also have option to extract the segmented area.
+    -You also have option to extract the segmented area.
   
   ![image](https://github.com/user-attachments/assets/4d01c0c1-38a1-4cdd-8b66-76c87abb337b)
   
