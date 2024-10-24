@@ -9,11 +9,17 @@ Lets take these one by one.
 
 ![image](https://github.com/user-attachments/assets/067bda2d-8332-4ece-9e2f-2578a4be4c6b)
 
+
   -In this section you can create quarter spheres on the corners at one click also you can select paint with 10mm or 20mm as you prefer
+  
   -Another option is that you can paint the slices on your own and with the help of shortcutkeys you can travel easily between slices.
+  
   -You can choose 10mm or 20mm as you wish. And each button will get you to start or end of the slice based on the color you have chosen.
+  
   -You can undo/redo your operations with Ctrl+z/Ctry+y or clicking buttons.
+  
   -You can remove calibers from corners clicking red X mark. You can unselect paint and you can also erase the paints.
+  
   -You can extract these caliber models to specific folder.
 
   
