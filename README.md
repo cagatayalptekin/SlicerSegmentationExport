@@ -1,11 +1,11 @@
 # SlicerSegmentationExport
 ![image](https://github.com/user-attachments/assets/11b79ec9-867b-4a7f-b169-f1a94029fe23)
 
-Main features are caliber(paint brushes), DICOM(slice images), Segmentation(same with segment editor), Create Line and Save Scene.
+Main features are 1) caliber(paint brushes), 2) DICOM(slice images), 3) Segmentation(same with segment editor), 4) Create Line and 5) Save Scene.
 
 Lets take these one by one.
 
-**Caliber**:
+**1-) Caliber**:
 
 ![image](https://github.com/user-attachments/assets/067bda2d-8332-4ece-9e2f-2578a4be4c6b)
 
@@ -34,7 +34,7 @@ Lets take these one by one.
 ![image](https://github.com/user-attachments/assets/2f835b61-8915-414e-81ef-56dbea46e2f0)
   
 
-  **DICOM**:
+  **2-) DICOM**:
   
 ![image](https://github.com/user-attachments/assets/4157ea4b-4712-40e1-adc0-792c266d9305)
   
@@ -49,7 +49,7 @@ Lets take these one by one.
 ![image](https://github.com/user-attachments/assets/fd948cb4-098e-4d5d-befb-19c0b591134f)
     
 
-**Segmentation**
+**3-) Segmentation**
 
 ![image](https://github.com/user-attachments/assets/5d91d35e-3190-42bd-adc8-9c97f6390e58)
     
@@ -63,7 +63,7 @@ Lets take these one by one.
   ![image](https://github.com/user-attachments/assets/4d01c0c1-38a1-4cdd-8b66-76c87abb337b)
   
 
-**Create Line**
+**4-) Create Line**
 
 ![image](https://github.com/user-attachments/assets/4fd36793-b13a-4b54-abf0-a8378732dd65)
   
@@ -75,7 +75,7 @@ Lets take these one by one.
   
     -You have option to extract line.
   
-**Save Scene**
+**5-) Save Scene**
 
 ![image](https://github.com/user-attachments/assets/f4591aa3-6e7d-4a13-a2f1-472a628beeda)
 
