@@ -390,7 +390,7 @@ class SlicerSegmentationExportWidget(ScriptedLoadableModuleWidget, VTKObservatio
 
         # Save scene
         if path =="":
-            print("Please give a valid path!")
+            print("Please give a valid path to save scene!")
         else:
         
             if slicer.util.saveScene(sceneSaveFilename):
@@ -822,7 +822,7 @@ class SlicerSegmentationExportLogic(ScriptedLoadableModuleLogic):
             
 
         if path == "":
-            print('Please Select a path')
+            print('Please Select a path to extract line!')
         elif check!=0:
             print('There is already line with same name')
         else:
@@ -1215,7 +1215,7 @@ class SlicerSegmentationExportLogic(ScriptedLoadableModuleLogic):
                 shutil.rmtree(without_image_folder)
                 shutil.rmtree(dicom_folder)
         else:
-            print("Path must be given!")
+            print("Path must be given to zip images!")
                 
     
     def exportImages(self,path,imageNumber,green_slice,red_slice,yellow_slice,SSPaintInclude,redMiddle,greenMiddle,yellowMiddle):
